@@ -2,6 +2,8 @@
 
 Building scalable systems, solving hard problems, and optimizing for performance at scale.
 
+![Banner](./banner.png)
+
 ---
 
 ## 🚀 About Me
